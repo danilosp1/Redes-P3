@@ -18,7 +18,7 @@ O método `_next_hop` deve retornar (como uma *string*) o endereço IP do próxi
 
 ## Passo 2 — 2 pontos
 
-Termine a implementação do método `enviar` da classe `IP`. Monte um datagrama IP que contenha como *payload* o segmento TCP fornecido.
+Termine a implementação do método `enviar` da classe `IP`. Monte um datagrama IP que contenha como *payload* o segmento TCP fornecido
 
 ## Passo 3 — 2 pontos
 
